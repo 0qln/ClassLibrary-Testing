@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>ClassLibrary_Testing</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+     <Reference Include="DebugLibrary">
+       <HintPath>D:\Programmmieren\Github\Projects\DebugLibrary\DebugLibrary\bin\Debug\net7.0\DebugLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="NeatLibrary">
+       <HintPath>D:\Programmmieren\Github\Projects\NEAT_Implementation\NeatImplementation\bin\Debug\net7.0\NeatImplementation.dll</HintPath>
+     </Reference>
+  </ItemGroup>
+
+
+</Project>
