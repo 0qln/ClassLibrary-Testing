@@ -18,3 +18,5 @@ D:\Programmmieren\Github\Projects\ClassLibrary-Testing\bin\Debug\net7.0\CommandL
 D:\Programmmieren\Github\Projects\ClassLibrary-Testing\bin\Debug\net7.0\DebugLibrary.pdb
 D:\Programmmieren\Github\Projects\ClassLibrary-Testing\bin\Debug\net7.0\CommandLibrary.pdb
 D:\Programmmieren\Github\Projects\ClassLibrary-Testing\obj\Debug\net7.0\ClassLibrary-Testing.csproj.CopyComplete
+D:\Programmmieren\Github\Projects\ClassLibrary-Testing\bin\Debug\net7.0\NeatImplementation.dll
+D:\Programmmieren\Github\Projects\ClassLibrary-Testing\bin\Debug\net7.0\NeatImplementation.pdb
